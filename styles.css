@@ -1,0 +1,9 @@
+table{
+    border: 0;
+    background: rgb(150, 218, 150);
+    width: 40%;
+    align-items: center;
+    padding: 2px;
+    border-color: black;
+    border-radius: 25px;
+}
